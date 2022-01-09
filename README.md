@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# React Media Player using Azure AMP
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
