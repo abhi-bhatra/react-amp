@@ -11,9 +11,8 @@ function App() {
 
         {/* Movie 1 */}
         <div className='movie-data'>
-          <p><b>Rashmi Rocket</b></p>
+          <p><b>Lana Rhoades</b></p>
           <p className='imdb'>IMDB: 7.7/10</p>
-          <p>Rashmi, a small-town girl, overcomes societal barriers and goes on to become a national-level athlete. However, her career hits rock bottom when she is forced to undergo a gender test.</p>
         </div>
         <AzureMP 
           options={{controls: true, autoplay: false}}
@@ -24,9 +23,8 @@ function App() {
 
         {/* Movie 2 */}
         <div className='movie-data'>
-          <p><b>Helmet</b></p>
+          <p><b>Ava Addams</b></p>
           <p className='imdb'>IMDB: 7/10</p>
-          <p>Helmet is a 2021 Indian Hindi-language comedy film with a strong message of contraceptive awareness directed by Satram Ramani and produced by Sony Pictures Films India and Dino Morea. It features Aparshakti Khurana, Pranutan Bahl, Abhishek Banerjee, Ashish Verma and Sharib Hashmi in lead roles.</p>
         </div>
         <AzureMP 
           options={{controls: true, autoplay: false}}
@@ -35,12 +33,12 @@ function App() {
 
         {/* Movie 3 */}
         <div className='movie-data'>
-          <p><b>Jungle Cruise</b></p>
+          <p><b>Dani Daniels</b></p>
           <p className='imdb'>IMDB: 7/10</p>
           <p>Dr. Lily Houghton enlists the aid of wisecracking skipper Frank Wolff to take her down the Amazon in his ramshackle boat. Together, they search for an ancient tree that holds the power to heal -- a discovery that will change the future of medicine.</p>
         </div>
         <iframe
-          title='Jungle Cruise'
+          title='Dani Daniels'
           src="https://drive.google.com/file/d/1ent2vYUR_2yjQD0CenAojJFYM_HAgoII/preview"
           width="100%"
           height="auto"
